@@ -1,0 +1,26 @@
+{
+    "DEFAULT": {
+        "input": "en",
+        "output": "it"
+    },
+    "LANGUAGES": {
+        "pt": {
+            "Teste de tradu\u00e7\u00e3o.": {
+                "en": "Translation test."
+            },
+            "Executar este m\u00f3dulo na linha de comando produz a seguinte sa\u00edda": {
+                "en": "Running this module from the command line produces the following output"
+            }
+        },
+        "en": {
+            "Se voc\u00ea est\u00e1 pronto para isso, pegue sua bebida favorita e continue.": {
+                "it": "Se sei pronto per questo, prendi la tua bevanda preferita e continua."
+            }
+        },
+        "br": {
+            "Executar este m\u00f3dulo na linha de comando produz a seguinte sa\u00edda": {
+                "br": "Executar este m\u00f3dulo na linha de comando produz a seguinte sa\u00edda"
+            }
+        }
+    }
+}

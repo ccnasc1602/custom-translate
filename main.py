@@ -5,8 +5,8 @@ class Main:
         pass
     
     def run(self, message):
-        print(_(message, "br", "br"))
+        print(_(message))
 
 
 if __name__=="__main__":
-    Main().run("Executar este módulo na linha de comando produz a seguinte saída")
+    Main().run("Language not specified or output language equal to input language")

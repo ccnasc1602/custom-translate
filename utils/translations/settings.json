@@ -4,17 +4,5 @@
         "output": "pt"
     },
     "LANGUAGES": {
-        "pt": {
-            "Executar este m\u00f3dulo na linha de comando produz a seguinte sa\u00edda": {
-                "es": "Ejecutar este m\u00f3dulo desde la l\u00ednea de comando produce el siguiente resultado"
-            }
-        },
-        "en": {
-            "Language not specified or output language equal to input language": {
-                "it": "Lingua non specificata o lingua di output uguale alla lingua di input",
-                "pt": "Idioma n\u00e3o especificado ou idioma de sa\u00edda igual ao idioma de entrada",
-                "es": "Idioma no especificado o idioma de salida igual al idioma de entrada"
-            }
-        }
     }
 }
